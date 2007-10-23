@@ -1,7 +1,7 @@
 === Change Font/-size ===
 Contributors: Bueltge
 Donate link: http://bueltge.de/wunschliste/
-Tags: spam, protection, javascript, rss, post
+Tags: font, size, javascript, style
 Requires at least: 1.5
 
 Change the size and style of fonts via Link.
