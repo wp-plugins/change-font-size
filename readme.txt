@@ -16,15 +16,14 @@ Please visit [the official website](http://bueltge.de/wp-schift-veraendern-fonts
 1. Upload all files to the `/wp-content/plugins/` directory, with folder
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Edit content or template of your theme.
+`<a href="javascript:fname('style','id');" >fontstyle</a>`
+`<a href="javascript:fsize('size','unit','id');" >fontsize</a>`
 
-   `<a href="javascript:fname('style','id');" >fontstyle</a>`
-   `<a href="javascript:fsize('size','unit','id');" >fontsize</a>`
-		
-		Example:
-		
-		`<a href="javascript:fname('serif','content');" >fontstyle serif on ID content</a>`
-		`<a href="javascript:fsize('1.2','em','content');" >fontsize 1.2em on ID content</a>`
-		
+_Example:_
+
+`<a href="javascript:fname('serif','content');" >fontstyle serif on ID content</a>`
+`<a href="javascript:fsize('1.2','em','content');" >fontsize 1.2em on ID content</a>`
+
 See on [the official website](http://bueltge.de/wp-schift-veraendern-fontsize-und-font-plugin/140/ "Change Font/-size").
 
 == Frequently Asked Questions ==
