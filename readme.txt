@@ -17,6 +17,8 @@ Please visit [the official website](http://bueltge.de/wp-schift-veraendern-fonts
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Edit content or template of your theme
 
+_Code:_
+
 `<a href="javascript:fname('style','id');" >fontstyle</a>`
 `<a href="javascript:fsize('size','unit','id');" >fontsize</a>`
 
