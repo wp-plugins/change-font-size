@@ -7,6 +7,9 @@ Requires at least: 1.5
 Change the size and style of fonts via Link.
 
 == Description ==
+
+= This plugin is not developed and maintained. =
+
 Change the size and style of fonts via Link.
 
 Please visit [the official website](http://bueltge.de/wp-schift-veraendern-fontsize-und-font-plugin/140/ "Change Font/-size") for further details and the latest information on this plugin.
