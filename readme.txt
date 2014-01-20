@@ -3,16 +3,18 @@ Contributors: Bueltge
 Donate link: http://bueltge.de/wunschliste/
 Tags: font, size, javascript, style
 Requires at least: 1.5
+Tested up to: 2.1.3
+Stable tag: trunk
 
 Change the size and style of fonts via Link.
 
 == Description ==
-
-= This plugin is not developed and maintained. =
-
 Change the size and style of fonts via Link.
 
-Please visit [the official website](http://bueltge.de/wp-schift-veraendern-fontsize-und-font-plugin/140/ "Change Font/-size") for further details and the latest information on this plugin.
+= No longer maintained =
+This plugin is no longer maintained. It is actively tested up to version 2.1.3. After this version include WordPress in the core a functionality to list and delete Spam-comments.
+
+Please visit [the official post](http://bueltge.de/wp-schift-veraendern-fontsize-und-font-plugin/140/ "Change Font/-size") for further details and the latest information on this plugin.
 
 == Installation ==
 1. Unpack the download-package
